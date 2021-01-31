@@ -1,0 +1,1 @@
+web: gunicorn remontmarcket.wsgi --log-file -
