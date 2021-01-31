@@ -1,1 +1,1 @@
-web: gunicorn remontmarcket.wsgi --log-file -
+web: gunicorn postapi.wsgi --log-file -
