@@ -24,3 +24,4 @@ six==1.15.0
 sorl-thumbnail==12.7.0
 django-heroku
 requests
+dj-database-url
