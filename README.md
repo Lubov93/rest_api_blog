@@ -16,8 +16,7 @@
     <a href="https://apirestblog.herokuapp.com">View blog</a>
     ·
     <a href="https://t.me/pythonDevLuba">Report Bug</a>
-    ·
-    <a href="">Request Feature</a>
+
   </p>
 </p>
 
@@ -79,9 +78,9 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+My linkendin - [@linkendin](Linkedin - https://www.linkedin.com/in/liubovrudn/) 
+My email - [@email](email - lubaandpython@gmail.com) 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 
 
