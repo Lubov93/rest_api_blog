@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Lubov93/rest_api_blog/blob/master/blog/static/blog/icons/code-solid.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">REST API BLOG </h3>
@@ -27,14 +27,10 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -45,8 +41,47 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 ![](https://github.com/Lubov93/rest_api_blog/blob/master/blog/static/111.jpg)
+Welcome to the Django blog repository. Here you will find a simple blog that created using Bootstrap template.
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Installation
+
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Lubov93/rest_api_blog.git
+   ```
+2. Install packages
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. Makemigartions
+   ```JS
+   python manage.py makemigrations/migrate
+   ```
+4. Run server
+   ```JS
+   python manage.py runserver
+   ```
+
+<!-- USAGE EXAMPLES -->
+## Usage
+![](https://github.com/Lubov93/rest_api_blog/blob/master/blog/static/222.jpg)
+![](https://github.com/Lubov93/rest_api_blog/blob/master/blog/static/333.jpg)
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 
 
@@ -55,19 +90,3 @@
 
 
 
-
-You can change/configure the env variables if you wanna run project Localy.Delete Procfile to run locally.
-Start db and adminer: with
-  $ virtualenv env
-  $ source env/bin/activate
-  $ pip install -r requirements/dev.txt
-  $ python3 manage.py makemigrations
-  $ python3 manage.py migrate
-  $ python3 manage.py runserver
-
-It will run the server
-The server should run on http://127.0.0.1:8000/
-API:
-http://127.0.0.1:8000/api
-To apply autopep8 and flake8 run:
-$ make format
