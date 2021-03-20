@@ -78,8 +78,10 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact
 
-My linkendin - [@linkendin](Linkedin - https://www.linkedin.com/in/liubovrudn/) 
-My email - [@email](email - lubaandpython@gmail.com) 
+My linkendin -  https://www.linkedin.com/in/liubovrudn/
+</br>
+My email - lubaandpython@gmail.com</br>
+
 
 
 
